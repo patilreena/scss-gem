@@ -1,0 +1,25 @@
+$basecolor: blue;
+
+body {
+	font-family: sans-serif;
+
+}
+
+.info {
+	background-color: white;
+	h1 {
+		background-color: blue;
+	}
+	p {
+		background-color: orange;
+	}
+}
+.content {
+	background-color: red;
+	h1 {
+		background-color: green;
+	}
+	p {
+		background-color: pink;
+	}
+}

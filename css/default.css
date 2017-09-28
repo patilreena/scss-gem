@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif; }
+
+.info {
+  background-color: white; }
+  .info h1 {
+    background-color: blue; }
+  .info p {
+    background-color: orange; }
+
+.content {
+  background-color: red; }
+  .content h1 {
+    background-color: green; }
+  .content p {
+    background-color: pink; }
+
+/*# sourceMappingURL=default.css.map */
